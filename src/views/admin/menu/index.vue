@@ -71,7 +71,7 @@
     </basic-container>
   </div>
 </template>
-
+// 这是注释
 <script>
 import { mapGetters } from "vuex";
 import { validatenull } from "@/util/validate";
