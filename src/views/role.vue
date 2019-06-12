@@ -1,7 +1,7 @@
 <template>
   <div class="pull-chheight role-container">
     <basic-container>
-      <p>当前用户的权限值是有权限时(admin) 时，才可以看到下面的个别按钮。</p>
+      <p>当前用户的权限值是有权限时(admin) 时，才看到下面的个别按钮。</p>
       <el-switch v-model="roleSwitch"
                  active-color="#13ce66"
                  inactive-color="#ff4949"
